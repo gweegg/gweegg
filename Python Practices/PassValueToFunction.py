@@ -9,7 +9,7 @@ def print_test(text):
 
 print_test(my_text)
 
-#ass value to a function 2
+#pass value to a function 2
 def InputAge(age):
     new_age = age + 10
     return new_age
